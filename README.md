@@ -99,5 +99,3 @@ This project uses [The Quotes Hub API](https://thequoteshub.com/api/).
 * 🌍 Multi-language quotes
 * 🖼️ Background images based on quote mood
 
---
-⚡ Would you like me to also **write a short description for GitHub repo tags & About section** (so your repo looks polished and professional when browsed)?
